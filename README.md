@@ -1,4 +1,4 @@
-<\center>Imagens do simulador<center>
+<center>Imagens do simulador<center>
 ![Captura de tela 2024-11-27 154725](https://github.com/user-attachments/assets/60cff832-aac2-4c3a-8aae-7294600eaea7)
 
 
